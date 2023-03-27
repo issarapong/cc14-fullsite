@@ -1,3 +1,4 @@
+ ```
  1002  git status
  1003  git add .
  1004  git commit -m "Defult"
@@ -13,4 +14,4 @@
  1014  git add .
  1015  git commit -m "Add gitignore"
  1016  hitory
- 
+ ```
